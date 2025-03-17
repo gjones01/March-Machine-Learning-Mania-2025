@@ -2,6 +2,7 @@
 This is a documentation for one of my submissions for Kaggle's annual machine learning competition sponsored by Google.
 
 Language: Python (Jupyter)
+<br>
 IDE: VS Code
 <br>
 Libraries: Pandas, NumPy, Scikit-Learn
