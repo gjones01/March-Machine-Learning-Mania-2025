@@ -3,7 +3,9 @@ This is a documentation for one of my submissions for Kaggle's annual machine le
 
 Language: Python (Jupyter)
 IDE: VS Code
+<br>
 Libraries: Pandas, NumPy, Scikit-Learn
+<br>
 Machine Learning Algorithm(s): Fixed ensemble of Extra Trees and Random Forest
 
 **Project Overview**
