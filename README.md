@@ -1,6 +1,10 @@
 # March-Machine-Learning-Mania-2025
 This is a documentation for one of my submissions for Kaggle's annual machine learning competition sponsored by Google.
 
+Language: Python (Jupyter)
+IDE: VS Code
+Libraries: Pandas, NumPy, Scikit-Learn
+Machine Learning Algorithm(s): Fixed ensemble of Extra Trees and Random Forest
 
 **Project Overview**
 The March Machine Learning Mania 2025 competition tasked participants with forecasting the winners of NCAA tournament matchups for the 2025 season. Leveraging historical data provided by Kaggle—including regular season and tournament results, team seeds, and a sample submission format—I built predictive models evaluated using log loss. This project resulted in two Stage 2 submissions, each refining my methodology to improve prediction accuracy.
